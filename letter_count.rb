@@ -9,5 +9,6 @@ def letter_count(string)
     end
   end
     letter_count
+    puts "hi"
 end
  puts letter_count("moon")
