@@ -8,7 +8,6 @@ def letter_count(string)
       letter_count[letter]=1
     end
   end
-    letter_count
-    puts "hi"
+    puts "hi,there are #{letter_count} letters in  this sring"
 end
  puts letter_count("moon")
